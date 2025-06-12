@@ -6,6 +6,8 @@ backend:
   branch: main
   repo: zazukoians/decap-i18n
 
+publish_mode: editorial_workflow
+
 # These lines should *not* be indented
 media_folder: "img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
