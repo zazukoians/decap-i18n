@@ -1,0 +1,33 @@
+# Uncomment for local development
+# local_backend: true
+
+backend:
+  name: github
+  branch: main
+  repo: zazukoians/decap-i18n
+
+# These lines should *not* be indented
+media_folder: "img" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
+
+i18n:
+  structure: multiple_folders
+  default_local: de
+  locales: [de, fr, it, en]
+
+collections:
+  - name: Showcases
+    label: "Showcases"
+    folder: "showcases"
+    i18n: true
+    extension: md
+    widget: "list"
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - name: body
+        label: Body
+        widget: markdown
+

@@ -1,0 +1,12 @@
+{
+  "name": "decap-i18n",
+  "private": true,
+  "scripts": {
+    "decap": "decap-server",
+    "start": "http-server"
+  },
+  "dependencies": {
+    "decap-server": "^3.2.0",
+    "http-server": "^14.1.1"
+  }
+}
