@@ -32,4 +32,5 @@ collections:
       - name: body
         label: Body
         widget: markdown
+        i18n: true
 
