@@ -1,0 +1,4 @@
+---
+title: Foobar
+---
+Das Foobar
