@@ -1,4 +1,4 @@
 ---
 title: Hallo
 ---
-Hello in German
+Hello in German is 'Hallo'
