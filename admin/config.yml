@@ -29,6 +29,53 @@ collections:
       - label: Title
         name: title
         widget: string
+        i18n: true
+      - label: Image
+        name: image
+        widget: image
+        i18n: duplicate
+      - label: Website
+        name: url
+        widget: string
+        i18n: duplicate
+      - label: Category
+        name: category
+        widget: select
+        multiple: true
+        i18n: duplicate
+        options:
+          - label: "Environment"
+            value: envi
+          - label: "Regions"
+            value: regi
+          - label: "Social"
+            value: soci
+      - label: Type of content
+        name: type
+        widget: select
+        i18n: duplicate
+        options:
+          - label: "Application"
+            value: application
+          - label: "Data Visualization"
+            value: data_visualization
+          - label: "Event"
+            value: event
+          - label: "Blog/Article"
+            value: blog_and_media_articles
+      - name: datasets
+        label: Datasets
+        widget: select
+        multiple: true
+        i18n: duplicate
+        options:
+          - label: "UK Public Procurement Notices - October 2021"
+            value: uk-public-procurement-notices-october-20212
+          - label: "UK Public Procurement Notices - October 2022"
+            value: uk-public-procurement-notices-october-20222
+      - name: Tags
+        label: Tags
+        widget: list
       - name: body
         label: Body
         widget: markdown

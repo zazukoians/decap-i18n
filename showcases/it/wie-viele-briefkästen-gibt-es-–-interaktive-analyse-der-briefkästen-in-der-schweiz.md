@@ -1,10 +1,10 @@
 ---
 title: Andamento degli affitti a Berna – Uno strumento per inquilini, urbanisti
   e decisori
-image: https://repository-images.githubusercontent.com/788945570/a1998415-fef9-4518-8a5d-d2937f17edec
-url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
+image: https://raw.githubusercontent.com/davidoesch/wo-sind-briefkaesten/refs/heads/master/images/screenshot.png
+url: https://wieviele-briefkaesten-gibt-es.streamlit.app/
 category:
-  - soci
+  - regi
 type: application
 ---
 Questo **quadro di controllo interattivo** consente di visualizzare l'andamento degli **affitti a Berna** tra il 2013 e il 2024, per **quartiere**, **anno** e **dimensione dell'alloggio**. Facilita la comprensione delle dinamiche del mercato locativo e offre una panoramica chiara, utile sia per i **cittadini** che per gli **attori pubblici** e i **professionisti del settore immobiliare**.
