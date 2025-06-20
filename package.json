@@ -13,6 +13,7 @@
     "decap-server": "^3.2.0",
     "fast-glob": "^3.3.3",
     "fastify": "^5.4.0",
-    "fastify-cli": "^7.4.0"
+    "fastify-cli": "^7.4.0",
+    "gray-matter-from-file": "^1.0.6"
   }
 }

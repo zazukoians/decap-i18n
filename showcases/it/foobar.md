@@ -6,6 +6,9 @@ url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
 category:
   - soci
 type: application
+datasets:
+  - uk-public-procurement-notices-october-20212
+  - uk-public-procurement-notices-october-20222
 ---
 Questo **quadro di controllo interattivo** consente di visualizzare l'andamento degli **affitti a Berna** tra il 2013 e il 2024, per **quartiere**, **anno** e **dimensione dell'alloggio**. Facilita la comprensione delle dinamiche del mercato locativo e offre una panoramica chiara, utile sia per i **cittadini** che per gli **attori pubblici** e i **professionisti del settore immobiliare**.
 

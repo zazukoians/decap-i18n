@@ -6,6 +6,9 @@ url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
 category:
   - soci
 type: application
+datasets:
+  - uk-public-procurement-notices-october-20212
+  - uk-public-procurement-notices-october-20222
 Tags:
   - bern
   - dashboard

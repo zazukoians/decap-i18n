@@ -1,5 +1,6 @@
 # Uncomment for local development
-# local_backend: true
+local_backend:
+  url: http://localhost:8899/api/v1
 
 backend:
   name: github

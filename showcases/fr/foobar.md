@@ -6,6 +6,9 @@ url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
 category:
   - soci
 type: application
+datasets:
+  - uk-public-procurement-notices-october-20212
+  - uk-public-procurement-notices-october-20222
 ---
 Ce tableau de bord **interactif** permet de visualiser l’évolution des **loyers à Berne** entre 2013 et 2024, par **quartier**, **année** et **taille de logement**. Il facilite la compréhension des dynamiques du marché locatif et offre une vue d’ensemble claire, utile à la fois pour les **citoyens**, les **acteurs publics** et les **professionnels du logement**.
 
