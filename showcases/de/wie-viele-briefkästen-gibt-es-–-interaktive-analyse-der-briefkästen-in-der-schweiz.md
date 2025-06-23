@@ -7,8 +7,8 @@ category:
   - regi
 type: application
 datasets:
-  - landeskarte-1-10000-farbig
-  - wohnungen-gebaude-und-wohnungsregister-gwr
+  - 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
+  - 100232-kanton-basel-stadt
 Tags:
   - Adressen
   - Briefkästen
