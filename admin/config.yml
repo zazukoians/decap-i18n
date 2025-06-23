@@ -72,9 +72,9 @@ collections:
         required: false
         options:
           - label: "Landeskarte 1:10'000 (farbig)"
-            value: landeskarte-1-10000-farbig
+            value: 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
           - label: "Wohnungen (Gebäude- und Wohnungsregister GWR)"
-            value: wohnungen-gebaude-und-wohnungsregister-gwr
+            value: 100232-kanton-basel-stadt
       - name: Tags
         label: Tags
         widget: list
