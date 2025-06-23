@@ -69,11 +69,12 @@ collections:
         widget: select
         multiple: true
         i18n: duplicate
+        required: false
         options:
-          - label: "UK Public Procurement Notices - October 2021"
-            value: uk-public-procurement-notices-october-20212
-          - label: "UK Public Procurement Notices - October 2022"
-            value: uk-public-procurement-notices-october-20222
+          - label: "Landeskarte 1:10'000 (farbig)"
+            value: landeskarte-1-10000-farbig
+          - label: "Wohnungen (Gebäude- und Wohnungsregister GWR)"
+            value: wohnungen-gebaude-und-wohnungsregister-gwr
       - name: Tags
         label: Tags
         widget: list
