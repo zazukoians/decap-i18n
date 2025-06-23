@@ -6,6 +6,9 @@ url: https://wieviele-briefkaesten-gibt-es.streamlit.app/
 category:
   - regi
 type: application
+datasets:
+  - landeskarte-1-10000-farbig
+  - wohnungen-gebaude-und-wohnungsregister-gwr
 ---
 Questo **quadro di controllo interattivo** consente di visualizzare l'andamento degli **affitti a Berna** tra il 2013 e il 2024, per **quartiere**, **anno** e **dimensione dell'alloggio**. Facilita la comprensione delle dinamiche del mercato locativo e offre una panoramica chiara, utile sia per i **cittadini** che per gli **attori pubblici** e i **professionisti del settore immobiliare**.
 

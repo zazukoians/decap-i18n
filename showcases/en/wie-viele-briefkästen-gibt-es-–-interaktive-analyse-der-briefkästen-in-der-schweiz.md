@@ -6,6 +6,9 @@ url: https://wieviele-briefkaesten-gibt-es.streamlit.app/
 category:
   - regi
 type: application
+datasets:
+  - landeskarte-1-10000-farbig
+  - wohnungen-gebaude-und-wohnungsregister-gwr
 ---
 This interactive application allows you to easily calculate the number of letterboxes (distribution addresses) in a geographical area of your choice in Switzerland. Using accurate geospatial data, it offers a fast and reliable calculation of distribution addresses, making it a useful tool for various sectors. The application is based on modern technologies such as Python, DuckDB and Streamlit, guaranteeing a smooth and interactive experience. The data used comes from two major sources:
 

@@ -6,6 +6,9 @@ url: https://wieviele-briefkaesten-gibt-es.streamlit.app/
 category:
   - regi
 type: application
+datasets:
+  - landeskarte-1-10000-farbig
+  - wohnungen-gebaude-und-wohnungsregister-gwr
 ---
 Cette application interactive permet de calculer facilement le nombre de boîtes aux lettres (adresses de distribution) dans un périmètre géographique de votre choix en Suisse. Utilisant des données géospatiales précises, elle offre un calcul rapide et fiable des adresses de distribution, ce qui en fait un outil utile pour divers secteurs. L'application repose sur des technologies modernes telles que Python, DuckDB et Streamlit, garantissant une expérience fluide et interactive. Les données utilisées proviennent de deux sources majeures :
 
