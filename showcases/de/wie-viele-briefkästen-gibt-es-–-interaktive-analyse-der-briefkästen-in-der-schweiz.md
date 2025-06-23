@@ -6,6 +6,9 @@ url: https://wieviele-briefkaesten-gibt-es.streamlit.app/
 category:
   - regi
 type: application
+datasets:
+  - landeskarte-1-10000-farbig
+  - wohnungen-gebaude-und-wohnungsregister-gwr
 Tags:
   - Adressen
   - Briefkästen
