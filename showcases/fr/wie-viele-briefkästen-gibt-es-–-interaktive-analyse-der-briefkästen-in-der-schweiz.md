@@ -7,8 +7,10 @@ category:
   - regi
 type: application
 datasets:
-  - 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
-  - 100232-kanton-basel-stadt
+  - id: 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
+    label: Landeskarte 1:25'000 (1960)
+  - id: 100232-kanton-basel-stadt
+    label: Wohnungen (Gebäude- und Wohnungsregister GWR)
 ---
 Cette application interactive permet de calculer facilement le nombre de boîtes aux lettres (adresses de distribution) dans un périmètre géographique de votre choix en Suisse. Utilisant des données géospatiales précises, elle offre un calcul rapide et fiable des adresses de distribution, ce qui en fait un outil utile pour divers secteurs. L'application repose sur des technologies modernes telles que Python, DuckDB et Streamlit, garantissant une expérience fluide et interactive. Les données utilisées proviennent de deux sources majeures :
 

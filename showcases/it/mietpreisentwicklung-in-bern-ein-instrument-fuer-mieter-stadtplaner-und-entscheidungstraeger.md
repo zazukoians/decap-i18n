@@ -7,8 +7,10 @@ category:
   - soci
 type: application
 datasets:
-  - uk-public-procurement-notices-october-20212
-  - uk-public-procurement-notices-october-20222
+  - id: 35927534@bundesamt-fur-statistik-bfs
+    label: Einfuhr nach Handelspartnern (Länder)
+  - id: 284e9eb7-0ab4-4344-9797-68c2a8e6873f@kanton-zug
+    label: Wirtschaftliche Sozialhilfequote nach Kanton
 ---
 Questo **quadro di controllo interattivo** consente di visualizzare l'andamento degli **affitti a Berna** tra il 2013 e il 2024, per **quartiere**, **anno** e **dimensione dell'alloggio**. Facilita la comprensione delle dinamiche del mercato locativo e offre una panoramica chiara, utile sia per i **cittadini** che per gli **attori pubblici** e i **professionisti del settore immobiliare**.
 

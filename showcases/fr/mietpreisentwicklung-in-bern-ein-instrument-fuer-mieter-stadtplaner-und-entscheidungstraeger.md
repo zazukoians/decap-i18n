@@ -7,8 +7,10 @@ category:
   - soci
 type: application
 datasets:
-  - uk-public-procurement-notices-october-20212
-  - uk-public-procurement-notices-october-20222
+  - id: 35927534@bundesamt-fur-statistik-bfs
+    label: Einfuhr nach Handelspartnern (Länder)
+  - id: 284e9eb7-0ab4-4344-9797-68c2a8e6873f@kanton-zug
+    label: Wirtschaftliche Sozialhilfequote nach Kanton
 ---
 Ce tableau de bord **interactif** permet de visualiser l’évolution des **loyers à Berne** entre 2013 et 2024, par **quartier**, **année** et **taille de logement**. Il facilite la compréhension des dynamiques du marché locatif et offre une vue d’ensemble claire, utile à la fois pour les **citoyens**, les **acteurs publics** et les **professionnels du logement**.
 

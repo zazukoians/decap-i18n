@@ -66,15 +66,13 @@ collections:
             value: blog_and_media_articles
       - name: datasets
         label: Datasets
-        widget: select
+        widget: dataset
         multiple: true
         i18n: duplicate
         required: false
-        options:
-          - label: "Landeskarte 1:10'000 (farbig)"
-            value: 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
-          - label: "Wohnungen (Gebäude- und Wohnungsregister GWR)"
-            value: 100232-kanton-basel-stadt
+        piveau:
+          hub: https://piveau-ln.zazukoians.org/
+          search: https://piveau-hub-search-ln.zazukoians.org/
       - name: Tags
         label: Tags
         widget: list

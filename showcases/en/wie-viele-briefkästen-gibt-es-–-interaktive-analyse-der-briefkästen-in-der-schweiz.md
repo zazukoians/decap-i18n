@@ -7,8 +7,10 @@ category:
   - regi
 type: application
 datasets:
-  - 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
-  - 100232-kanton-basel-stadt
+  - id: 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
+    label: Landeskarte 1:25'000 (1960)
+  - id: 100232-kanton-basel-stadt
+    label: Wohnungen (Gebäude- und Wohnungsregister GWR)
 ---
 This interactive application allows you to easily calculate the number of letterboxes (distribution addresses) in a geographical area of your choice in Switzerland. Using accurate geospatial data, it offers a fast and reliable calculation of distribution addresses, making it a useful tool for various sectors. The application is based on modern technologies such as Python, DuckDB and Streamlit, guaranteeing a smooth and interactive experience. The data used comes from two major sources:
 

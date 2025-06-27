@@ -2,12 +2,13 @@ import glob from "fast-glob"
 import negotiate from "@fastify/accept-negotiator"
 import {createReadStream} from 'node:fs'
 import greyMatter from 'gray-matter-from-file'
+import {resolve} from 'node:path'
 
 const cwd = import.meta.dirname
 
 export default async function (fastify, _) {
     fastify.register(import('@fastify/static'), {
-        root: import.meta.dirname,
+        root: resolve(import.meta.dirname, 'dist'),
     })
 
     fastify.register(import('@fastify/cors'))

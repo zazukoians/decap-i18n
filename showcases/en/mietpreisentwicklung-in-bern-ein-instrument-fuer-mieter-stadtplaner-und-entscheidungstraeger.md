@@ -5,6 +5,8 @@ category:
   - soci
 type: application
 datasets:
-  - uk-public-procurement-notices-october-20212
-  - uk-public-procurement-notices-october-20222
+  - id: 35927534@bundesamt-fur-statistik-bfs
+    label: Einfuhr nach Handelspartnern (Länder)
+  - id: 284e9eb7-0ab4-4344-9797-68c2a8e6873f@kanton-zug
+    label: Wirtschaftliche Sozialhilfequote nach Kanton
 ---
