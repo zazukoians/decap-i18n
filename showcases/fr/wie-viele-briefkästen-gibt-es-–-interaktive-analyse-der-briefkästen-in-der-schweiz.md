@@ -5,12 +5,13 @@ image: https://raw.githubusercontent.com/davidoesch/wo-sind-briefkaesten/refs/he
 url: https://wieviele-briefkaesten-gibt-es.streamlit.app/
 category:
   - regi
+  - soci
 type: application
 datasets:
   - id: 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
     label: Landeskarte 1:25'000 (1960)
-  - id: 100232-kanton-basel-stadt
-    label: Wohnungen (Gebäude- und Wohnungsregister GWR)
+  - id: ca47a4a1-2f58-46c0-b3ce-d4ef063922d4-geoinformation-kanton-zuerich
+    label: Räumliche Gebäudestatistik
 ---
 Cette application interactive permet de calculer facilement le nombre de boîtes aux lettres (adresses de distribution) dans un périmètre géographique de votre choix en Suisse. Utilisant des données géospatiales précises, elle offre un calcul rapide et fiable des adresses de distribution, ce qui en fait un outil utile pour divers secteurs. L'application repose sur des technologies modernes telles que Python, DuckDB et Streamlit, garantissant une expérience fluide et interactive. Les données utilisées proviennent de deux sources majeures :
 

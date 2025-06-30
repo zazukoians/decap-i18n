@@ -5,12 +5,13 @@ image: https://raw.githubusercontent.com/davidoesch/wo-sind-briefkaesten/refs/he
 url: https://wieviele-briefkaesten-gibt-es.streamlit.app/
 category:
   - regi
+  - soci
 type: application
 datasets:
   - id: 66708546-e7b7-49e4-9ec4-410a8be2b7b3-geoinformation_kanton_luzern
     label: Landeskarte 1:25'000 (1960)
-  - id: 100232-kanton-basel-stadt
-    label: Wohnungen (Gebäude- und Wohnungsregister GWR)
+  - id: ca47a4a1-2f58-46c0-b3ce-d4ef063922d4-geoinformation-kanton-zuerich
+    label: Räumliche Gebäudestatistik
 ---
 Questo **quadro di controllo interattivo** consente di visualizzare l'andamento degli **affitti a Berna** tra il 2013 e il 2024, per **quartiere**, **anno** e **dimensione dell'alloggio**. Facilita la comprensione delle dinamiche del mercato locativo e offre una panoramica chiara, utile sia per i **cittadini** che per gli **attori pubblici** e i **professionisti del settore immobiliare**.
 
